@@ -7,4 +7,4 @@
 
 ## 项目链接
 
-[Nests后台api项目](https://github.com/sjktCode/tzmall-api)
+[NestJs后台api项目](https://github.com/sjktCode/tzmall-api)
